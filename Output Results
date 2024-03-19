@@ -1,5 +1,5 @@
 # Insulator-Defect Detection
-**Insulator-Defect Detection** is a dataset for an object detection task. It is used in the energy industry. 
+**Insulator-Defect Detection** is a dataset for an object detection task using SSD512 algorithm which is used in the energy industry. 
 
 The dataset consists of 1600 images with 5373 labeled objects belonging to 3 different classes including *insulator*, *pollution-flashover*, and *broken*.
 
